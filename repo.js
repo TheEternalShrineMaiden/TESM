@@ -5,7 +5,7 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
-        "AltJessPH": "AltJessPH"
+        "AltJessPH": "Touhou 6 having a Phantasm stage"
     },
 
     "title": "TESM's Patches"
