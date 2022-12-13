@@ -1,12 +1,12 @@
 {
-    "contact": "TESM#3052",
     "id": "TESM",
-	"servers": [
+    "title": "TESM's Patches",
+    "contact": "TESM#3052",
+    "servers": [
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
         "AltJessPH": "Touhou 6 having a Phantasm stage"
-    },
-
-    "title": "TESM's Patches"
+		"15Kaizo": "currently a demo of kaizo 15"
+    }
 }
