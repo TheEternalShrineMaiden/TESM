@@ -6,5 +6,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/TESM/15Kaizo/"
 	],
-	"title": "15Kaizo"
+	"title": "PC98 Reimu in touhou 18 stage 4"
 }
