@@ -6,7 +6,7 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
-        "AltJessPH": "Touhou 6 having a Phantasm stage",
-		"15Kaizo": "currently a demo of kaizo 15"
+        "Little Hell patches": "Touhou 15 Kaizo and Touhou 18 Stage 4 PC98 Reimu",
+        "AltJessPH": "AltJessPH"
     }
 }
