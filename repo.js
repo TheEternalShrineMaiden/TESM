@@ -6,7 +6,8 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
-        "Little Hell patches": "Touhou 15 Kaizo and Touhou 18 Stage 4 PC98 Reimu",
-        "AltJessPH": "AltJessPH"
+        "15Kaizo": "15Kaizo",
+        "AltJessPH": "AltJessPH",
+        "Old One": "PC98 Reimu in touhou 18 stage 4 and Flandre on the extra stage"
     }
 }
