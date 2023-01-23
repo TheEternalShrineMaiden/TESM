@@ -8,6 +8,7 @@
     "patches": {
         "15Kaizo": "15Kaizo",
         "AltJessPH": "AltJessPH",
-        "Old One": "PC98 Reimu in touhou 18 stage 4 and Flandre on the extra stage"
+        "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
+		"15KaizoDLC": "15KaizoDLC"
     }
 }
