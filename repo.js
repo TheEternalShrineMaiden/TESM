@@ -10,7 +10,6 @@
         "15KaizoDLC": "Kaizo 15 DLC",
         "AltJessPH": "AltJessPH",
 		"Data10": "Data bosses for touhou 10",
-		"Daijin": "Daijin in touhou 8",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage"
     }
 }
