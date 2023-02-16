@@ -10,6 +10,7 @@
         "15KaizoDLC": "Kaizo 15 DLC",
         "AltJessPH": "AltJessPH",
         "Kaizo10": "touhou 10 Kaizo",
-        "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage"
+        "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
+		"WilhelmvonClausewitzHalcyonHISUIMARU": "WilhelmvonClausewitzHalcyonHISUIMARU"
     }
 }
