@@ -7,6 +7,7 @@
     ],
     "patches": {
         "13Kaizo": "touhou 13 Kaizo",
+        "Kaizo IN": "Touhou 8 Kaizo",
         "15Kaizo": "15Kaizo",
         "15KaizoDLC": "Kaizo 15 DLC",
         "AltJessPH": "AltJessPH",
