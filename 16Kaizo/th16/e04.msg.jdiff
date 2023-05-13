@@ -1,0 +1,94 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Lucky  >Somewhere in the below of Gensokyo."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Not really sure where this is."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Lucky  >\"I'm sorry!"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> I didn't know they would be strong!\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Unlucky  >\"Listen I care about you and you need to atleast tell where you are!!!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> You've could've died...Thank goddesses the Shrine maiden and the witch brought you back"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> But you should know by now Lucky!\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Lucky  >\"It's just some minor injererers"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> It's not like I lost a arm!"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> Or I'm not hurted!\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Unlucky  >\"Those aren't even words!"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> Just get some rest and I'll deal with the fallout that has happened to you!\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "So Unlucky told Lucky off for going out."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "And Getting beaten up along the way."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "But Luckily she has atleast didn't get eaten."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<c$Ending No. 04L — Unlucky you$>"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<c$Congratulations on your clear!$>"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<c$Next time, try to use no continues! Wish you luck!!!$>"
+            ]
+        }
+    }
+}

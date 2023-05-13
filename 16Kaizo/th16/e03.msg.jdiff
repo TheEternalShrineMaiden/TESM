@@ -1,0 +1,161 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Lucky >Somewhere in the sky above Gensokyo."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Lucky has fallen down out of the door."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Lucky  >\"My back hurts like so much!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Lucky  >\"Wait...!",
+                "<l$>  Who were the people I fought\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Lucky  >\"Green? Void?\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Lucky  >\"I do remember fighting a Mokou."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Ughh..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> My head is hurting so much!\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Lucky  >\"But I did win.",
+                "<l$>  Since I guess that is fine?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Lucky  >\"man I'm sleepy\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Lucky  >\"Maybe I can get someone to pick me up"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> hah!?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Sueshi  >\"Yo Lucky are you ok?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Lucky  >\"Yeah! why?\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Sueshi  >\"Did you sneak out...?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Lucky  >\"Erm no!"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> I was in my bed the whole time...\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Sueshi  >\"I just suddenly appeared here so..? you kinda did\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Lucky  >\"can you take me back?"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> I cannot get home!"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> I'm scared\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Sueshi  >\"Sorry I cannot help you but have you asked that many eyes yokai talk to them?\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Lucky  >\"HUH!?",
+                "<l$>  The eye one!\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "I'll go and find them!!!."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Sueshi looking at Lucky's going onward to find the,",
+                "eye person."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Sueshi teleporting with a nice clap home."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "She thinks:",
+                "\"I should've atleast tried to bring her back.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "But Lucky has gone deeper into the realm",
+                "She is gonna get out."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$Ending No. 03L — Lucky you$>"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        }
+    }
+}
