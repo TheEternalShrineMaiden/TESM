@@ -6,11 +6,13 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
-        "13Kaizo": "touhou 13 Kaizo",
+        "13Kaizo": "Touhou 13 Kaizo",
         "15Kaizo": "15Kaizo",
         "15KaizoDLC": "Kaizo 15 DLC",
+        "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
-        "Kaizo10": "touhou 10 Kaizo",
+        "Data10": "Touhou 10 Kaizo",
+        "KaizoIN": "Kaizo IN",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage"
     }
 }
