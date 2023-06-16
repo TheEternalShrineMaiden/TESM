@@ -8,7 +8,6 @@
     "patches": {
         "13Kaizo": "Touhou 13 Kaizo",
         "15Kaizo": "15Kaizo",
-        "18Kaizo": "18Kaizo just because I think it's funny",
         "15KaizoDLC": "Kaizo 15 DLC",
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
