@@ -10,6 +10,7 @@
         "15Kaizo": "15Kaizo",
         "15KaizoDLC": "Kaizo 15 DLC",
         "16Kaizo": "16Kaizo",
+		"KaizoEOSD": "Touhou 6 Kaizo",
         "AltJessPH": "AltJessPH",
         "Data10": "Touhou 10 Kaizo",
         "KaizoIN": "Kaizo IN",
