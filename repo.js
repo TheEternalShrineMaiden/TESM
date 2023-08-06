@@ -11,7 +11,7 @@
         "15KaizoDLC": "Kaizo 15 DLC",
         "16Kaizo": "16Kaizo",
 	"KaizoEOSD": "Touhou 6 Kaizo (test in progress please wait)",
-	"KaizoPCB": "Touhou 7 Kaizo (test in progress please wait)",
+	"Perfect": "Touhou 7 Kaizo (test in progress please wait)",
         "AltJessPH": "AltJessPH",
         "Data10": "Touhou 10 Kaizo",
         "KaizoIN": "Kaizo IN",
