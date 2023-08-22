@@ -1,10 +1,10 @@
 {
   "dependencies": [
     "thpatch/lang_en",
-	"nmlgc/base_tsa",
     "ExpHP/base_exphp",
     "ExpHP/anm_leak",
-    "ExpHP/sprite_death_fix"
+    "ExpHP/sprite_death_fix",
+    "ExpHP/bullet_cap",
   ],
   "id": "TESMgoofs",
   "servers": [
