@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/TESM/TESMgoofs/"
   ],
-  "title": "TESMgoofs"
+  "title": "Touhou but make some goofy shit(th06wip)"
 }
