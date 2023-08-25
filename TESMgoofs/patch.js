@@ -1,6 +1,6 @@
 {
   "dependencies": [
-      "ExpHP/base_exphp",
+    "ExpHP/base_exphp",
     "ExpHP/anm_leak",
     "ExpHP/sprite_death_fix",
     "ExpHP/bullet_cap",
@@ -10,5 +10,5 @@
   "servers": [
     "https://mirrors.thpatch.net/TESM/TESMgoofs/"
   ],
-  "title": "TESMgoofs"
+  "title": "TESMgoofs in th15 and a wip on th06 atm"
 }
