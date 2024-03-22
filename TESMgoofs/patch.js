@@ -11,5 +11,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/TESM/TESMgoofs/"
 	],
-	"title": "TESMgoofs in th15 and th06. and now a pure WIP on touhou 19 atm"
+	"title": "TESMgoofs in th15 and th06. and now a pure WIP on touhou 19 and touhou 12.8 atm"
 }
