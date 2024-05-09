@@ -13,7 +13,9 @@
         "Data10": "Touhou 10 Kaizo",
         "KaizoIN": "Kaizo IN",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
-        "TESMgoofs": "TESMgoofs in th15 and th06. and now a pure WIP on touhou 19 atm",
+	    "KaizoEoSD": "Makes EoSD Harder and more intresting",
+        "TESMgoofs": "TESMgoofs in th15 and th06. and now a pure WIP on touhou 19 and touhou 12.8 atm",
+        "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of",
         "blueziffern": "blueziffern"
     }
 }
