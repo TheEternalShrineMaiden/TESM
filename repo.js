@@ -16,6 +16,5 @@
 	    "KaizoEoSD": "Makes EoSD Harder and more intresting",
         "TESMgoofs": "TESMgoofs in th15 and th06, th07",
         "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of",
-        "blueziffern": "blueziffern"
     }
 }
