@@ -11,11 +11,11 @@
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
         "Data10": "Touhou 10 Kaizo",
+        "KaizoEoSD": "KaizoEoSD",
         "KaizoIN": "Kaizo IN",
-	    "TESMgoofs": "TESMgoofs in th15 and th06, th07",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
-        "KaizoEoSD": "Makes EoSD Harder and more intresting",
-        "14+15Kaizo": "Combines LoDDK + Someguy's Touhou 14 Kaizo patch + My touhou 15 Kaizo patch (only bosses lmao)",
+        "TESMgoofs": "TESMgoofs in th15, th06, th07 and th08. and now a pure WIP on touhou 19 atm",
+		"Impossible Character's": "Touhou 14 with a few ISC patterns",
         "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of"
     }
 }
