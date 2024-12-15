@@ -15,7 +15,6 @@
         "KaizoIN": "Kaizo IN",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
         "TESMgoofs": "TESMgoofs in th15, th06, th07 and th08. and now a pure WIP on touhou 19 atm",
-		"Impossible Character's": "Touhou 14 with a few ISC patterns",
         "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of"
     }
 }
