@@ -56,7 +56,7 @@
     "113": "Taboo Sgin \"Spear the Gungir -Stabbing-\"",
     "114": "Ugly to Beautiful Skies \"Scarlet Conversion\"",
     "115": "Midnight Sign \"Demon King Cradle\"",
-    "116": "Caged Sign \"Miserable Fate"",
+    "116": "Caged Sign \"Miserable Fate\"",
     "117": "Conjuring Scarlet \"Eternally Strong\"",
     "118": "\"Bestest Red Mistress Show\"",
     "119": "\"Scarlet Carnival Beat\""
