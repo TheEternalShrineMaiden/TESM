@@ -13,5 +13,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/TESM/14thHRTP/"
 	],
-	"title": "uses the ying yanf from 13D's and makes a HTRP TESM things"
+	"title": "14thHRTP"
 }
