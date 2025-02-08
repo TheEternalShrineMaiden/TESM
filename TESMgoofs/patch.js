@@ -6,7 +6,6 @@
 		"ExpHP/continue",
 		"ExpHP/sprite_death_fix",
 		"ExpHP/bullet_cap",
-		"zero318/ZeroEclExtensions",
 		"thpatch/lang_en"
 	],
 	"id": "TESMgoofs",
