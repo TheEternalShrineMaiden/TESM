@@ -7,7 +7,9 @@
     ],
     "patches": {
         "13Kaizo": "Touhou 13 Kaizo",
+        "14thHRTP": "uses the ying yang from 13D's and makes a HTRP TESM things",
         "15Kaizo": "15Kaizo",
+        "dddddddddddd": " dddddddddddd in THcrap cuz i maybe can?",
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
         "Data10": "Touhou 10 Kaizo",
