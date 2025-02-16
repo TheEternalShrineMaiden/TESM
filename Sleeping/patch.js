@@ -9,7 +9,7 @@
 		"zero318/ZeroEclExtensions",
 		"thpatch/lang_en"
 	],
-	"id": "SBB",
+	"id": "Sleeping",
 	"servers": [
 		"https://mirrors.thpatch.net/TESM/Sleeping/"
 	],
