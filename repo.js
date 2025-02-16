@@ -7,7 +7,7 @@
     ],
     "patches": {
         "13Kaizo": "Touhou 13 Kaizo",
-        "SBB": "Sleeping Broken Border. orginal incident idea",
+        "Sleeping": "Sleeping Broken Border. orginal incident idea",
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
