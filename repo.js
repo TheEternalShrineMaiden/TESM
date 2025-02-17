@@ -14,7 +14,7 @@
         "KaizoEoSD": "KaizoEoSD",
         "KaizoIN": "Kaizo IN",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
-        "Sleeping": "Sleeping Broken Border. orginal incident idea",
+        "Sleeping": "Sleeping Broken Border. orginal incident idea for PCB maybe?",
         "TESMgoofs": "TESMgoofs in th15, th06, th07 and th08. and now a pure WIP on touhou 19 atm",
         "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of"
     }
