@@ -7,6 +7,7 @@
     ],
     "patches": {
         "13Kaizo": "Touhou 13 Kaizo",
+        "betterHitbox": "fixing transformation bullets example kanako's spells",
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
