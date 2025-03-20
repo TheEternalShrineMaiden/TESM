@@ -7,7 +7,7 @@
     ],
     "patches": {
         "13Kaizo": "Touhou 13 Kaizo",
-        "betterHitbox": "fixing transformation bullets example kanako's spells",
+        "WBaLK": "TH17 with TH15 stuff the best i can do lmao",		
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
@@ -17,7 +17,6 @@
         "KaizoIN": "Kaizo IN",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
         "Sleeping": "Sleeping Broken Border. orginal incident idea",
-        "SoloReimu": "putting Solo Reimu in other games for a laugh",
         "SoloSakuya": "putting Solo Sakuya in other games for a laugh",
         "TESMgoofs": "TESMgoofs in th15, th15, th06, th07. will be working on other stuff not sure when it'll be out so keep tight",
         "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of"
