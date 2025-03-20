@@ -6,8 +6,7 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
-        "13Kaizo": "Touhou 13 Kaizo",
-        "WBaLK": "TH17 with TH15 stuff the best i can do lmao",		
+        "13Kaizo": "Touhou 13 Kaizo",	
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
