@@ -18,6 +18,6 @@
         "Sleeping": "Sleeping Broken Border. orginal incident idea",
         "SoloSakuya": "putting Solo Sakuya in other games for a laugh",
         "TESMgoofs": "TESMgoofs in th15, th15, th06, th07. will be working on other stuff not sure when it'll be out so keep tight",
-        "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of"
+        "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of(full patch no game dialouge other than reimu)"
     }
 }
