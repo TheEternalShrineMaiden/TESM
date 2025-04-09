@@ -1,0 +1,64 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Aya  >The Youkai Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Gensokyo's tallest mountain. Home to many youkai, including the tengu."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Aya  >\"Looks like she got away."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>  Those back doors are a real pain. She can run to anywhere she wants.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Aya  >\"Maybe I should have beat her faster?"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>  Next I need the perfect countermeasure before I try again.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "The mastermind appeared to be an enemy of the tengu."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "However, she seemed to have gotten away right before the finishing blow."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "Aya thought she should beat her before she gets away next time."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Ending No. 06 — Door to Anywhere$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$Congratulations on your clear!$>"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<c$Next time, try to use no continues!$>"
+            ]
+        }
+    }
+}

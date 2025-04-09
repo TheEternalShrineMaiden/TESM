@@ -1,0 +1,194 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Hatate  $Aya  >The Youkai Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Gensokyo's tallest mountain. Home to many youkai, including the tengu."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Hatate  >\"So you're sure she said she was a god of impairments?\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Aya  >\"Right. I thought it was a serious matter.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Hatate  >\"Hmm... well that IS a disturbing story.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Hatate  >\"If whoever this is gathered faith and showed herself,",
+                "<l$>  she might have been trying to get rid of the tengu,"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>  and if she shows up personally, that itself might be for the purpose of causing the tengu's downfall...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Aya  >\"No, she didn't seem THAT hostile."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$>  Although it is true that she acted like meeting me was an inconvenience.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Hatate  >\"But still, it's not every day you consult with me about anything.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Aya  >\"At first I was merely investigating the season incident,",
+                "<l$>  but if the threat to the tengu is real, then I can't put this in an article.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Hatate  >\"And there it is, concealing the truth for your own convenience.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Aya  >\"But aren't I being the very model of a reporter?"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>  If I'm not writing an article, then I'm free to consult with whoever I wish.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Hatate  >\"Don't beat around the bush, you just want my thoughtography power.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Aya  >\"Well of course I do."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>  Actually, I fought the mastermind, but unfortunately I lost."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$>  I'd been caught in her trap from the beginning, allowing her to take away all my weapons.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Aya  >\"And at the very end when I was at my wit's end,",
+                "<l$>  she got away before I realized what was happening.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Hatate  >\"This is rare. So she made even a battle-type like you cry uncle?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Aya  >\"I'm the social awareness type, thank you very much.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Aya  >\"But now I have no idea where she is or what she's doing."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$>  Which is where you come in. With your thoughtography, I could get a lead on her.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Hatate  >\"Sure, but... you don't know where she is, right?\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Aya  >\"Don't worry, there's a way."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$>  There was a hint in the season I equipped.\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Hatate  >\"Th-There's a door on your back!?\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Aya began to use the supposedly trapped season once again."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "It was supposed to have been an enemy trap, but it was the one ",
+                "thing still connecting her to her opponent."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Aya intended to jump into the door as soon as she prepared a countermeasure."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "This wasn't because she was frustrated."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Nor was it because she wanted to save the tengu."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "So why, then, was Aya taking action?"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Because she wanted to write an article."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "She was sure she could make an article out of the tengu narrowly avoiding crisis."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<c$Ending No. 05 — The Very Model of a Reporter$>"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        }
+    }
+}

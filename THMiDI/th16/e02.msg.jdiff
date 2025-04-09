@@ -1,0 +1,60 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine located on the eastern outskirts."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"OW OW OW! Can you guys stop!?"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> This stabbing is hurting me!\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >\"And if you don't stop I'll come back more stronger!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> owww!\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Sadly Reimy didn't win but maybe next time,",
+                "she can go full force and beat this with a 1CC."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "or something?"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Ending No. 02 — The Nightmare continues$>"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Atleast you got somewhere!$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$Next time, try to use no continues!$>"
+            ]
+        }
+    }
+}

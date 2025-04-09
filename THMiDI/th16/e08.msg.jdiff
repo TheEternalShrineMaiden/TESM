@@ -1,0 +1,65 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >The Forest of Magic."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The forest in Gensokyo filled with the mysterious and the eerie."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Marisa's home is there."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"Hmm, no matter what I did, I was no match for her."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$>  In order to win, I need more information.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Back doors, back doors..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>  Guess all I can do is find one and jump in.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "She thought her weapon had been sealed,",
+                "but before she knew it, the enemy got away."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "Marisa decided to set out for battle once again."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Ending No. 08 — Was That a Rejection?$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$Congratulations on your clear!$>"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<c$Next time, try to use no continues!$>"
+            ]
+        }
+    }
+}

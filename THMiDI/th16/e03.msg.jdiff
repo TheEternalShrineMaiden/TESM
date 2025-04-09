@@ -1,0 +1,161 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Cirno  $Larva  >Somewhere in the sky above Gensokyo."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "As a fairy, she's fine even in the summer heat."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Cirno  >\"All right! At last, I'm now the strongest!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Larva  >\"Wow! Amazing!",
+                "<l$>  Well, you did beat ME, after all!\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Larva  >\"So what kinds of people did you beat?\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Cirno  >\"This lady with a big hatchet..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>  and a dog at the shrine, I think... and this girl with a wide hat..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>  and, uh... what was after that again?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Cirno  >\"All my memories after that are fuzzy.",
+                "<l$>  I think there were a lot of doors...?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Larva  >\"Wow! You're duuuuuumb!\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Cirno  >\"Maybe it's the heat making me dumb..."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$>  ...Huh? Hey! Look at your back!\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Cirno  >\"What's with this door thing on your back!?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Larva  >\"Ew! Creepy!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Cirno  >\"But this door... I feel like I've... Ugh, my head...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Cirno  >\"Oh, I remember now!"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>  I met some weird people in a world full of doors.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Larva  >\"Weird people?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Cirno  >\"Like these weird dancers, and this lady who was so lazy she fought in a chair."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$>  I feel like I fought them, but..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$>  It's so weird, that's where my memories get all fuzzy.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Larva  >\"Hmph, so you lost then?\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Cirno  >\"H-How could I lose!?",
+                "<l$>  I'm the strongest!\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "After the rampage induced by the two children, the fairies' memories were vague."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "The seasons had gone wild because of the fairies, who control nature,",
+                "going beyond their limits while berserk."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "The doors that had appeared on their backs were proof that the fairies had been influenced."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Realizing this, Cirno told Larva that:",
+                "\"Whatever you do, don't look at or touch your own back.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Of course, she planned to enter the door and take back her memories",
+                "as soon as she was ready."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$Ending No. 03 — The Reappearing Back Door$>"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        }
+    }
+}

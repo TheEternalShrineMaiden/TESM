@@ -1,0 +1,94 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Cirno  >Somewhere in the sky above Gensokyo."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Not really sure where this is."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Cirno  >\"Another great, sunny day!"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>  The summer sunlight is marking my skin, huh?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Cirno  >\"Wait, huh? Summer sunlight...?"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$>  Didn't I used to hate it when it was hot?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>  Since when was I okay with heat?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Cirno  >\"Well, whatever. It just means I conquered my weakness!"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$>  Meaning it's pushed me to be the strongest!"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$>  I'm all fired up now! Now I kinda wanna go test my strongestness!\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Cirno  >\"Oh perfect timing, there's a fairy over there!"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$>  I'm gonna try fighting her!\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Just then, the butterfly fairy Larva appeared in front of her."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "And so, Cirno began her battle (for the <i$N>th time)."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "It seems she was losing her sense of self due to going berserk."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<c$Ending No. 04 — The Start of the Idiot Loop World$>"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<c$Congratulations on your clear!$>"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<c$Next time, try to use no continues!$>"
+            ]
+        }
+    }
+}
