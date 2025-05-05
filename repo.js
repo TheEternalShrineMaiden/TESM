@@ -6,6 +6,7 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
+        "FWtrBR": "Boss rush for Touhou 20's Demo",
         "13Kaizo": "Touhou 13 Kaizo",
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
@@ -21,7 +22,6 @@
         "TESMgoofs": "TESMgoofs in th15, th15, th06, th07. will be working on other stuff not sure when it'll be out so keep tight",
         "THMiDI": "Touhou Minds in Dreaming Individuals, a fangame fanpatch idea that I thought of",
         "WBaLK": "TH17 with TH15 stuff the best i can do lmao",
-	"FWtrBR": "Boss rush for Touhou 20's Demo",
         "betterHitbox": "fixing transformation bullets example kanako's spells"
     }
 }
