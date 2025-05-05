@@ -6,7 +6,7 @@
         "https://mirrors.thpatch.net/TESM/"
     ],
     "patches": {
-        "TH20BR": "Boss rush for Touhou 20's Demo",
+        "FWtrBR": "Boss rush for Touhou 20's Demo",
         "13Kaizo": "Touhou 13 Kaizo",
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
