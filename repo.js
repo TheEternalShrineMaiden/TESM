@@ -12,7 +12,6 @@
         "16Kaizo": "16Kaizo",
         "AltJessPH": "AltJessPH",
         "Data10": "Touhou 10 Kaizo",
-        "Impossible_Character": "Touhou 14 with a few ISC patterns",
         "KaizoEoSD": "KaizoEoSD",
         "KaizoIN": "Kaizo IN",
         "PC98R": "PC98 Reimu in touhou 18 stage 4 + Flandre on extra stage",
