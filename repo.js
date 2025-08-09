@@ -9,7 +9,6 @@
         "13Kaizo": "Touhou 13 Kaizo",
         "15Kaizo": "15Kaizo",
         "16Kaizo": "16Kaizo",
-        "AltJessPH": "AltJessPH",
         "Data10": "Touhou 10 Kaizo",
         "KaizoEoSD": "KaizoEoSD",
         "KaizoIN": "Kaizo IN",
@@ -22,3 +21,4 @@
     }
 
 }
+
