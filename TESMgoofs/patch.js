@@ -12,5 +12,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/TESM/TESMgoofs/"
 	],
-	"title": "TESMgoofs in th15, th15, th06, th07. will be working on other stuff not sure when it'll be out so keep tight"
+	"title": "TESMgoofs are like Kaizo but alittle more thoughts in there in th06, th07, th11, th14, th14.3 and th16. will be working on other stuff not sure when it'll be out so keep tight"
 }
