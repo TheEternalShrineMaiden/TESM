@@ -301,8 +301,8 @@
         "Thought I could grab it!! But don't grab falling pennies chat!"
     ],
     "15_0": [
-        "Wonder if I'll have more nightmares this week...?",
-        "Well, let's see."
+        "better wait then",
+        "it isn't even done yet lmao."
     ],
     "15_1": [
         "It's a pair of vampire sisters.",
