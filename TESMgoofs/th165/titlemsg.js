@@ -228,80 +228,77 @@
         "I swear to god if there is a three on one"
     ],
     "12_0": [
-        "I wonder why the hospitals have",
-        "their day off on Thursday so often."
+        "Man what hell did I enter now",
+        "So give it to me."
     ],
     "12_1": [
-        "The flames look like they're frozen in weird shapes...!",
-        "Is this an optical illusion?"
+        "Flowers I like flowers",
+        "Lessa Devita Flower is my name after all! but most people call me Devi."
     ],
     "12_2": [
-        "I got a photo of a whole lot of vengeful spirits! Although there's",
-        "so many, it doesn't even look like a spirit photo at this point."
+        "that can kill me"
     ],
     "12_3": [
-        "Huh? Was her hair that color before?",
-        "It looks different from the other photos... is she wearing a wig?"
-    ],
+        "that cannot kill me."
+   ],
     "12_4": [
-        "So briiight! But it sure is pretty... I wish I could stand",
-        "in the center somehow and take pictures of all the geometric light."
+        "Fuck you three."
     ],
     "12_5": [
-        "The moon fell outta the sky! It's a Giant Impact!",
-        "I got a super-crazy photo!!"
+        "Evil flying Triangles!",
+        "FROM HELL!!"
     ],
     "13_0": [
-        "Man, this week was sooo long.",
-        "Friday nights are just the best."
+        "Sadness is washing over me why?.",
+        "I don't get that."
     ],
     "13_1": [
-        "I got a big circle mark! From some lady dressed like",
-        "one of those smart teachers from a long time ago."
+        "Rings",
+        "ok."
     ],
     "13_2": [
-        "Photos with nice, regular patterns like this get",
-        "received really well. 'Cause everyone's simple-minded."
+        "Rings with openings",
+        "I don't Mind."
     ],
     "13_3": [
-        "P-pretty... um, I think you could call it that.",
-        "There's a fine line between beautiful and bizarre, huh."
+        "I have to break through that.",
+        "so rude but not all of it works like that."
     ],
     "13_4": [
-        "This lady seems like she's got a real harsh personality.",
-        "Kinda hard to approach..."
+        "damn she looks like she doesn't.",
+        "seem like she is right..."
     ],
     "13_5": [
-        "She gave me another big circle mark!",
-        "...Wait, if I couldn't teleport, I think I'd be dead right now?"
+        "Thats the real Junko",
+        "With a new final...And I wasn't fight the Dream Dweller because she is dead...."
     ],
     "14_0": [
-        "I'm getting pretty used to these nightmares.",
+        "Even more new people are coming.",
         "Not like I <i$want> to have them, of course."
     ],
     "14_1": [
-        "Is she having fun throwing needles towards herself?",
-        "What a masochist."
+        "Another flower?",
+        "why would there be a flower of light like that?"
     ],
     "14_2": [
-        "Quit aiming at me from below! (I am a girl, let's not forget.)",
-        "What's with this lady? She's got, like, no manners!"
+        "I cannot eat.",
+        "So rude."
     ],
     "14_3": [
-        "She sure seems to be having fun shooting danmaku from the",
-        "comfort of her chair. Bet she doesn't get enough exercise."
+        "Man this is easy",
+        "Cannot understand why she done this."
     ],
     "14_4": [
-        "Woah, she seems like she's got a real meticulous personality.",
-        "I feel like danmaku photos can show you someone's personality, too."
+        "I think I just devloped claustrophobia.",
+        "Horrible!"
     ],
     "14_5": [
-        "It's hard to tell from just a photo,",
-        "but this one looked like a biohazard symbol."
+        "oh",
+        "that's why."
     ],
     "14_6": [
-        "She taaalked! The haughty chair lady talked!",
-        "That aside, though, I can feel so much power flowing from my back!"
+        "Hibiki is throwing money at me",
+        "Thought I could grab it!! But don't grab falling pennies chat!"
     ],
     "15_0": [
         "Wonder if I'll have more nightmares this week...?",
