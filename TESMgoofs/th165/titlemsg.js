@@ -305,56 +305,56 @@
         "it isn't even done yet lmao."
     ],
     "15_1": [
-        "It's a pair of vampire sisters.",
-        "I thought vampires didn't show up in photos, though..."
+        "Oh the Scarlet Sisters!",
+        "I wish they were not so violent with their attacks..."
     ],
     "15_2": [
-        "Why, it's the Taoist and the head priest!",
-        "They're romping around way more than usual."
+        "Hmm very flashy.",
+        "I could just stay in the far right of them and be fine."
     ],
     "15_3": [
-        "A vampire and a head priest is a pretty weird combination.",
-        "They're weak to crosses, but I guess they're fine with sutras?"
+        "I wish I could graze that for the fans...",
+        "I cannot score for that can't I?"
     ],
     "15_4": [
-        "This light's as bright as the sun,",
-        "but she looks fine. Even though she's a vampire."
+        "This is probs the nicest they'll be to me now",
+        "I do not like the idea of non deleting bullets. Only after awhile they can be."
     ],
     "15_5": [
-        "Apparently, this vampire is extremely inquisitive, and will try",
-        "anything at least once. I wonder if she's a dojo member too?"
+        "How much more random could you be.",
+        "To be fair it is Remilia..."
     ],
     "15_6": [
-        "Miss Hijiri really is something. She even got a shut-in vampire to spend",
-        "time outside. I wish I could get some shots of her in her biker getup, too..."
+        "BAH.",
+        "I feel sick with how fast she went!"
     ],
     "16_0": [
-        "I've been thinking about nothing but dreams...",
-        "Who cares about some dumb Monday."
+        "Why do I smell death so strongly?",
+        "Maybe it's just cuz it's a Monday?"
     ],
     "16_1": [
-        "Let's see, this one is... oh my gosh, the Yama herself?!",
-        "Dang. The Gensokyo Chronicle really does have an article on everything."
+        "Why did that work?!",
+        "My heart does feel smaller then."
     ],
     "16_2": [
-        "These must be the people who Reimu-cchi calls her rivals. If I were",
-        "to compare them... the Hakurei Shrine is, um. Kind of the lame one?"
+        "I understand it's a dream...",
+        "This just kinda makes me sick, get what I'm saying?"
     ],
     "16_3": [
-        "You can tell just from the photos that these two didn't go well together...",
-        "They're both real 'going my own way' types. Why did they team up?"
+        "Jokes on them",
+        "I can dodge well... I think?"
     ],
     "16_4": [
-        "Bullets that smash through the beautifully-arranged danmaku as they",
-        "proceed...? Might be a pretty good metaphor for court proceedings, huh."
+        "Why does this feel realer?",
+        "Doesn't matter I just hid then."
     ],
     "16_5": [
-        "You can tell from the photos that they're a pretty similar pair.",
-        "Still, though... the bullet density is preeetty thick..."
+        "AHH!!.",
+        "That's not a good sign..."
     ],
     "16_6": [
-        "It smashed into the pillar and the pillar vanished?!",
-        "MAYDAY! There's been a terrible accident! I gotta post this right away!"
+        "I gotta watch my back aswell!?",
+        "THAT'S HORRIBLE!!!!"
     ],
     "17_0": [
         "What did I usually do in the",
