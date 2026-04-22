@@ -361,56 +361,56 @@
         "middle of weekdays, anyway...?"
     ],
     "17_1": [
-        "There she is! Gensokyo's secret character!",
-        "Apparently she stays cooped up indoors all the time."
+        "I do wonder why these two are over here?",
+        "Do they want to experiment on me?"
     ],
     "17_2": [
-        "Ahh, this pair...! These two were rampaging all over",
-        "during the Perfect Possession thing! I'd better run!"
+        "I feel sick looking at her.",
+        "What did they do to her? Could've that been me if they caught me."
     ],
     "17_3": [
-        "Seems like they're keeping a distance from each other. A Lunarian and",
-        "a celestial... I wonder what their impression of each other is."
+        "Still doesn't make it better.",
+        "Kinda seems abit nasty."
     ],
     "17_4": [
-        "Behold, the fairy-tale duo! They're as corny as a cell phone commercial,",
-        "and guaranteed to get shared across every social media feed there is!"
+        "AH.",
+        "No two Princesses! Not Lovin It!!!"
     ],
     "17_5": [
-        "I really wanna catch that little one...",
-        "She's not very photogenic. All the bullets around her look way too big..."
+        "Wait they're immortal.",
+        "Is that really worth it? Better of being dead imo..."
     ],
     "17_6": [
-        "Is it just me, or does this one make it look like the celestial",
-        "is whacking Princess Kaguya on the head over and over...?"
+        "Actually they...don't want to harm me here.",
+        "Just playing danmaku with me. why?"
     ],
     "18_0": [
-        "This is weird...",
-        "All I'm thinking about is dreams, dreams, dreams."
+        "Damn...I don't like how my body is hurting....",
+        "Feeling my chest about to explode."
     ],
     "18_1": [
-        "Gyaaah, she's reading my mind!",
-        "I'm so embarassed I might die! Better just kill her!"
+        "Why is there so much energy!?",
+        "You lot are using nasty trick you tacks!!!"
     ],
     "18_2": [
-        "Oh, Koishi...",
-        "You found a weird animal, didn't you?"
+        "Wish I could touch the fox's tails...",
+        "I would get rammed by Ran?"
     ],
     "18_3": [
-        "There's a bunch of hearts getting stolen, hearts getting foisted on me...",
-        "I'm not sure I get it, but animal hearts sure are tasty."
+        "Two sisters dancing ok?",
+        "I cannot dance that well. Since I'm a robot."
     ],
     "18_4": [
-        "A crow and a fox. Is there anyone who would like these photos...?",
-        "--Woah, speak of the devil! The Fluffy Fur Patrol is eating these pics up!"
+        "I guess, I'm trapped?",
+        "Better shoot well then!"
     ],
     "18_5": [
-        "Can Koishi's sister not read the minds of animals?",
-        "She's got a metric ton of hearts jabbed into her, at any rate..."
+        "Could you not?",
+        "I don't wanna see anymore finals..."
     ],
     "18_6": [
-        "This danmaku was really straightforward, kind of at odds",
-        "with their characters. I'd hardly even call it a nightmare..."
+        "kms.",
+        "Like bugger off!!!"
     ],
     "19_0": [
         "I wonder who",
