@@ -413,60 +413,60 @@
         "Like bugger off!!!"
     ],
     "19_0": [
-        "I wonder who",
-        "I'll meet today."
+        "When did I gain the ability to smell...",
+        "Take it away. Smells like crap :("
     ],
     "19_1": [
-        "These tiny stick figures are super scary, but...",
-        "From here, it just looks like I doodled on the photo."
+        "I...I have emotions...",
+        "About the plant one and the rock sitter...I want them"
     ],
     "19_2": [
-        "T-taiko drums?! And lightning?",
-        "Man, anything goes when it comes to danmaku."
+        "I CANNOT DANCE!",
+        "PLEASE HELP!!!!"
     ],
     "19_3": [
-        "If I had to say one way or another, tanuki are probably a \"percussion\"",
-        "sort of animal. What with the belly drumming and all."
+        "Maybe I should learn to dance maybe?",
+        "The beat is good."
     ],
     "19_4": [
-        "Nooo, not lightning! My phone's gonna get fried!",
-        "And that weird wiggly light seems bad for electronics, too."
+        "How lucky am I to dodge all of that?",
+        "Felt alittle nice!"
     ],
     "19_5": [
-        "The stick figures will even survive getting hit by lightning.",
-        "Um, seriously, scary much?"
+        "Oh.",
+        "Ok, Spoil me more then I guess?"
     ],
     "19_6": [
-        "On closer inspection, some of the drums have skull marks drawn on them.",
-        "Is that just how expensive they are?"
+        "Yeah send me more Impossible spellcards,",
+        "so cool."
     ],
     "20_0": [
-        "I can't remember what I used to dream about",
-        "before nightmares any more, but oh well!"
+        "Should be the Oni, Fire Bird, 3 in 1 and Junko.",
+        "How badly can this go!?"
     ],
     "20_1": [
-        "Let's see, we've got Mokou, and... an oni? The \"headlong charge\" duo.",
-        "Basic poster children for really thick-headed attacks."
+        "They were not from this era...",
+        "god please help me."
     ],
     "20_2": [
-        "A \"harsh teacher and delinquent student\" duo. Although lately,",
-        "the word \"delinquent\" seems to be referring to people like me."
+        "I didn't have too bad of a time with this.",
+        "I loved this."
     ],
     "20_3": [
-        "A weird duo with way-too-unique danmaku.",
-        "But it's perfect for teleportation practice!"
+        "Very Unreal attack.",
+        "Guessin I can make it through still!"
     ],
     "20_4": [
-        "There's this immortal jellyfish called a \"scarlet jellyfish.\"",
-        "Mokou...? Are immortality and scarlet related to each other...?"
+        "Why did any of this exist...",
+        "I need to vomit please...?"
     ],
     "20_5": [
-        "Thanks to this mist the oni made, I can't see the lasers at all...",
-        "The Hell duo is awful! Just plain awful!"
+        "Very scary, damn.",
+        "But I'm doing fine!"
     ],
     "20_6": [
-        "I can feel an angry sort of aura coming off these photos.",
-        "Those two must really have a grudge against something in particular."
+        "Where...Is she? I see Junko.",
+        "Not the demon person..."
     ],
     "21_0": [
         "So it's been another week...",
